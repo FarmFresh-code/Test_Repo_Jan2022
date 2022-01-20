@@ -3,4 +3,4 @@ y <- 2
 z <- x**y
 z
 
-library(dplyr)
+library(ggplot2)
